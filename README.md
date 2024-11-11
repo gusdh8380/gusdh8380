@@ -1,8 +1,6 @@
-### 
-
 #### introduction
 Developers whose goal is to have fun 
- About Me
+
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gusdh2510@gmail.com)](gusdh2510@gmail.com)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Jeon-Hyeon-O-c24a0c8b5ffc4add9542d3efc0db27ff?pvs=4)](https://www.notion.so/Jeon-Hyeon-O-c24a0c8b5ffc4add9542d3efc0db27ff?pvs=4)
