@@ -24,5 +24,5 @@ Developers whose goal is to have fun ....
 [https://github.com/gusdh8380/Fishing-RPG]
 
 🙏 Team Project 🙏
-- Miner Commando 
+- Miner Commando(IT 경진대회 수상작) 
 [https://github.com/gusdh8380/Miner-Commando]
