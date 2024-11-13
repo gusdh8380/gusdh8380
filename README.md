@@ -18,7 +18,7 @@ Developers whose goal is to have fun ....
  
 
 ✨ Personal Project ✨
-- 숫자야구게임 numbers baseball game 
+- 숫자야구게임 numbers baseball game     
 [https://github.com/gusdh8380/PythonProject]
 - 낚시배 키우기 FishingShip Raise  
 [https://github.com/gusdh8380/Fishing-RPG]
