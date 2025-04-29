@@ -27,5 +27,5 @@ Developers whose goal is to have fun ....
 - Miner Commando    
 [https://github.com/gusdh8380/Miner-Commando]
 
-- 8LATTE-TextRPG [에잇 레인저]
+- 8LATTE-TextRPG '에잇 레인저'
 [https://github.com/gusdh8380/8LETTE-TextRPG]
