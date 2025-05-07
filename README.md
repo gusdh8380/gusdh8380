@@ -24,6 +24,8 @@ Developers whose goal is to have fun ....
 [https://github.com/gusdh8380/Fishing-RPG]
 - TextRPG_spartaDungeon <br>
 [https://github.com/gusdh8380/ConsoleApp_TextRPG_SpartaDungeon]
+- MetaVerse in sparta
+[https://github.com/gusdh8380/Metaverse-In-Sparta]
 
 🙏 Team Project 🙏
 - Miner Commando    
