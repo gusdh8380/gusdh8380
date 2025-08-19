@@ -33,3 +33,6 @@ Developers whose goal is to have fun ....
 
 - 8LATTE-TextRPG '에잇 레인저' <br>
 [https://github.com/gusdh8380/8LETTE-TextRPG]
+
+- Team Choice 'Choice' <br>
+[https://github.com/KimJeongDae22/Project-Choice]
