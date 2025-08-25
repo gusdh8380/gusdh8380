@@ -34,5 +34,11 @@ Developers whose goal is to have fun ....
 - 8LATTE-TextRPG '에잇 레인저' <br>
 [https://github.com/gusdh8380/8LETTE-TextRPG]
 
+- MedievalSlug : 중세풍 메탈 슬러그 <br>
+[https://github.com/KimJeongDae22/Project-MedievalSlug]
+
+- Axis : 3D 퍼즐 게임  <br>
+[https://github.com/leejy1685/ThreeDevelopmentADay]
+
 - Team Choice 'Choice' <br>
 [https://github.com/KimJeongDae22/Project-Choice]
