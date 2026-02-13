@@ -1,7 +1,8 @@
-<h1 align="center">👋 Hi, I'm Jeon Hyun Oh (전현오)</h1>
+<h1 align="center">👋 Hi, I'm Jeon Hyun Oh</h1>
 
 <p align="center">
-  <strong>Developers whose goal is to have fun 🎮</strong>
+  <strong>AI-Driven Creative Developer</strong><br/>
+  Unity | Vibe Coding | AI/AX Automation
 </p>
 
 <p align="center">
@@ -11,34 +12,57 @@
 
 ---
 
+## 🧠 About Me
+
+A **Vibe Coding**-oriented developer who actively leverages AI tools throughout the development process.
+With hands-on experience building interactive content in Unity, I'm now focused on **AI/AX Automation** (n8n) and AI-powered development workflows.
+
+## 💼 Experience & Education
+
+| | Organization | Role | Duration |
+|---|---|---|---|
+| 🏢 | **Markcloud** | AX Developer Intern — Built n8n-based content automation pipeline | 1 month |
+| 🎓 | **Sparta Coding Club** | Unity Game Development Bootcamp — Completed | 4 months |
+
 ## 🛠️ Tech Stacks
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+**AI & Automation**
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
-## 💪 Tools
+**Game & Interactive**
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Photon-004480?style=flat-square&logo=Photon&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/> <img src="https://img.shields.io/badge/Photon-004480?style=flat-square&logo=Photon&logoColor=white"/>
+**Dev Tools**
+<img src="https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/> <img src="https://img.shields.io/badge/Claude%20Code-191919?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 ---
 
-## ✨ Personal Projects
+## 🤖 AI/AX Automation Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [MarkView Content Automation](https://github.com/gusdh8380/MarkView-Content-Automation) | Automated video creation + blog generation + YouTube upload pipeline for MarkView trademark search service | n8n, FastAPI, Playwright, Docker, YouTube API |
+
+## 🎮 Game Projects
+
+### ✨ Personal
 
 | Project | Description |
 |---------|-------------|
-| [숫자야구게임 (Numbers Baseball)](https://github.com/gusdh8380/PythonProject) | Python 기반 숫자야구 게임 |
-| [낚시배 키우기 (FishingShip Raise)](https://github.com/gusdh8380/Fishing-RPG) | 낚시 RPG 게임 |
-| [TextRPG Sparta Dungeon](https://github.com/gusdh8380/ConsoleApp_TextRPG_SpartaDungeon) | 콘솔 기반 텍스트 RPG |
-| [MetaVerse in Sparta](https://github.com/gusdh8380/Metaverse-In-Sparta) | 메타버스 프로젝트 |
+| [Numbers Baseball](https://github.com/gusdh8380/PythonProject) | Number guessing game built with Python |
+| [FishingShip Raise](https://github.com/gusdh8380/Fishing-RPG) | Fishing RPG game |
+| [TextRPG Sparta Dungeon](https://github.com/gusdh8380/ConsoleApp_TextRPG_SpartaDungeon) | Console-based text RPG |
+| [MetaVerse in Sparta](https://github.com/gusdh8380/Metaverse-In-Sparta) | Metaverse project |
 
-## 🙏 Team Projects
+### 🙏 Team
 
 | Project | Description |
 |---------|-------------|
-| [Miner Commando](https://github.com/gusdh8380/Miner-Commando) | 광부 코만도 게임 |
-| [8LATTE-TextRPG '에잇 레인저'](https://github.com/gusdh8380/8LETTE-TextRPG) | 팀 텍스트 RPG |
-| [MedievalSlug](https://github.com/KimJeongDae22/Project-MedievalSlug) | 중세풍 메탈 슬러그 |
-| [Axis](https://github.com/leejy1685/ThreeDevelopmentADay) | 3D 퍼즐 게임 |
-| [Choice](https://github.com/KimJeongDae22/Project-Choice) | Team Choice 프로젝트 |
+| [Miner Commando](https://github.com/gusdh8380/Miner-Commando) | Miner commando action game |
+| [8LATTE-TextRPG](https://github.com/gusdh8380/8LETTE-TextRPG) | Team text RPG "Eight Rangers" |
+| [MedievalSlug](https://github.com/KimJeongDae22/Project-MedievalSlug) | Medieval-themed Metal Slug |
+| [Axis](https://github.com/leejy1685/ThreeDevelopmentADay) | 3D puzzle game |
+| [Choice](https://github.com/KimJeongDae22/Project-Choice) | Team Choice project |
 
 ---
 
