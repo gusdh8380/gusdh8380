@@ -43,7 +43,7 @@ With hands-on experience building interactive content in Unity, I'm now focused 
 |---------|-------------|-------|
 | [MarkView Content Automation](https://github.com/gusdh8380/MarkView-Content-Automation) | Automated video creation + blog generation + YouTube upload pipeline for MarkView trademark search service | n8n, FastAPI, Playwright, Docker, YouTube API |
 
-## 🎮 Game Projects
+## 📂 Projects
 
 ### ✨ Personal
 
