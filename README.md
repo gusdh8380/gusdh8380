@@ -49,6 +49,7 @@ With hands-on experience building interactive content in Unity, I'm now focused 
 
 | Project | Description |
 |---------|-------------|
+| [AquaView](https://github.com/gusdh8380/aquaview) | Water treatment process monitoring dashboard (FastAPI + React + Unity WebGL) |
 | [Numbers Baseball](https://github.com/gusdh8380/PythonProject) | Number guessing game built with Python |
 | [FishingShip Raise](https://github.com/gusdh8380/Fishing-RPG) | Fishing RPG game |
 | [TextRPG Sparta Dungeon](https://github.com/gusdh8380/ConsoleApp_TextRPG_SpartaDungeon) | Console-based text RPG |
@@ -64,9 +65,3 @@ With hands-on experience building interactive content in Unity, I'm now focused 
 | [Axis](https://github.com/leejy1685/ThreeDevelopmentADay) | 3D puzzle game |
 | [Choice](https://github.com/KimJeongDae22/Project-Choice) | Team Choice project |
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gusdh8380&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusdh8380&layout=compact" height="165"/>
-</p>
