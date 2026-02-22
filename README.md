@@ -55,7 +55,6 @@ My goal: rapidly understand unfamiliar domains and **turn them into something th
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [MarkView Content Automation](https://github.com/gusdh8380/MarkView-Content-Automation) | Full automation pipeline: keyword input → screen recording → YouTube upload → blog draft → Notion save, all within 3–5 min | n8n, FastAPI, Playwright, FFmpeg, Docker, GPT API |
-| [Game VOC Analysis](https://www.notion.so/VOC-n8n-2bfdd79e416180668ef0e18a0cbd3007) | Automated daily collection, classification & analysis of game reviews → Notion DB + Slack report. Dual AI Agent design for stability | n8n, Google Sheets API, Notion API, Slack API, Gemini |
 
 ---
 
