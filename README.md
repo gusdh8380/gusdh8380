@@ -49,6 +49,7 @@ With hands-on experience building interactive content in Unity, I'm now focused 
 
 | Project | Description |
 |---------|-------------|
+| [StructFlow](https://github.com/gusdh8380/StructFlow) | AI-driven structural design automation pipeline — natural language → hydraulic simulation + 3D visualization (Claude API + React + Unity WebGL + Docker/AWS) |
 | [AquaView](https://github.com/gusdh8380/aquaview) | Water treatment process monitoring dashboard (FastAPI + React + Unity WebGL) |
 | [Numbers Baseball](https://github.com/gusdh8380/PythonProject) | Number guessing game built with Python |
 | [FishingShip Raise](https://github.com/gusdh8380/Fishing-RPG) | Fishing RPG game |
