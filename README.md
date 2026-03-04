@@ -64,6 +64,7 @@ My goal: rapidly understand unfamiliar domains and **turn them into something th
 
 | Project | Description |
 |---------|-------------|
+| [CivilSim](https://github.com/gusdh8380/CivilSim) | **Lightweight city-building simulator inspired by SimCity** — 100×100 grid-based placement, 25 building types, automatic road tiling, monthly economic simulation, and utility systems. Built with Unity 6 + WebGL, deployed on Netlify. (Unity 6 · C# · URP · WebGL · Netlify) |
 | [StructFlow](https://github.com/gusdh8380/StructFlow) | **AI-powered structural design automation pipeline** — one natural language sentence triggers Manning's formula hydraulic calc → structural stress analysis → Unity 3D visualization. Built in 1 day via Claude Code vibe coding, live on AWS EC2. (Claude API · React · ASP.NET Minimal API · Unity WebGL · n8n · Docker · AWS) |
 | [AquaView](https://github.com/gusdh8380/aquaview) | **Water treatment process monitoring dashboard** — 5-stage wastewater treatment simulation based on EPA/WEF engineering data, real-time 3D visualization, HRT slider for BOD/TSS/COD cascade calculation. (FastAPI · React · Unity WebGL · Docker · AWS EC2) |
 
